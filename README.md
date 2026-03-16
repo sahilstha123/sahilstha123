@@ -9,17 +9,15 @@
 </div>
 
 ---
-```js
-const sahil = {
-  stack:     "MERN + React Query",
-  focus:     ["Clean Architecture", "Reusable Components", "RESTful APIs"],
-  currently: "Deepening full-stack & server-state management",
-  approach:  "Build. Break. Refactor. Repeat.",
-  email:     "sahilofficial2059@gmail.com",
-};
-```
+
+- 🧱 **Stack:** MERN + React Query
+- 📐 **Focus:** Clean Architecture · Reusable Components · RESTful APIs
+- 🌱 **Currently:** Deepening full-stack & server-state management
+- 🛠️ **Approach:** Build. Break. Refactor. Repeat.
+- 📫 **Email:** sahilofficial2059@gmail.com
 
 ---
+
 
 ### 🛠️ Tech Stack
 
